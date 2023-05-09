@@ -1,0 +1,14 @@
+"['name', 'light_years_from_earth', 'planet_mass', 'stellar_magnitude', 'discovery_date', 'hyperlink', 'planet_type', 'temp_discovery_date', 'temp_mass', 'planet_radius', 'orbital_radius', 'orbital_period', 'eccentricity']","['pl_hostname', 'pl_letter', 'pl_name', 'pl_discmethod', 'pl_controvflag', 'pl_pnum', 'pl_orbper', 'pl_orbpererr1', 'pl_orbpererr2', 'pl_orbperlim', 'pl_orbsmax', 'pl_orbsmaxerr1', 'pl_orbsmaxerr2', 'pl_orbsmaxlim', 'pl_orbeccen', 'pl_orbeccenerr1', 'pl_orbeccenerr2', 'pl_orbeccenlim', 'pl_orbincl', 'pl_orbinclerr1', 'pl_orbinclerr2', 'pl_orbincllim', 'pl_bmassj', 'pl_bmassjerr1', 'pl_bmassjerr2', 'pl_bmassjlim', 'pl_bmassprov', 'pl_radj', 'pl_radjerr1', 'pl_radjerr2', 'pl_radjlim', 'pl_dens', 'pl_denserr1', 'pl_denserr2', 'pl_denslim', 'pl_ttvflag', 'pl_kepflag', 'pl_k2flag', 'pl_nnotes', 'ra_str', 'ra', 'dec_str', 'dec', 'st_dist', 'st_disterr1', 'st_disterr2', 'st_distlim', 'gaia_dist', 'gaia_disterr1', 'gaia_disterr2', 'gaia_distlim', 'st_optmag', 'st_optmagerr', 'st_optmaglim', 'st_optband', 'gaia_gmag', 'gaia_gmagerr', 'gaia_gmaglim', 'st_teff', 'st_tefferr1', 'st_tefferr2', 'st_tefflim', 'st_mass', 'st_masserr1', 'st_masserr2', 'st_masslim', 'st_rad', 'st_raderr1', 'st_raderr2', 'st_radlim', 'rowupdate', 'pl_facility']"
+1,1, ,C,o,m,a,e, ,B,e,r,e,n,i,c,e,s, ,b,1,1, ,C,o,m
+3,0,5,b
+1,9,.,4, ,J,u,p,i,t,e,r,s,1,1, ,C,o,m, ,b
+4,.,7,4,R,a,d,i,a,l, ,V,e,l,o,c,i,t,y
+2,0,0,7,0
+h,t,t,p,s,:,/,/,e,x,o,p,l,a,n,e,t,s,.,n,a,s,a,.,g,o,v,/,e,x,o,p,l,a,n,e,t,-,c,a,t,a,l,o,g,/,6,9,8,8,/,1,1,-,c,o,m,a,e,-,b,e,r,e,n,i,c,e,s,-,b,/,1
+G,a,s, ,G,i,a,n,t,3,2,6,.,0,3,0,0,0,0,0,0
+2,0,0,7,0,.,3,2,0,0,0,0,0,0
+1,9,.,4, ,J,u,p,i,t,e,r,s,-,0,.,3,2,0,0,0,0,0,0
+1,.,0,8, ,x, ,J,u,p,i,t,e,r,0
+1,.,2,9, ,A,U,1,.,2,9,0,0,0,0
+3,2,6, ,d,a,y,s,0,.,0,5,0,0,0,0
+0,.,2,3,-,0,.,0,5,0,0,0,0
